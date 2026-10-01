@@ -37,11 +37,8 @@ Disponibilità Prodotti (DisponibilitaProdotto & NumeroScorte): Controlla che vi
 # 🗂️ Struttura della Repository
 La cartella del progetto contiene i seguenti script SQL (compatibili con MySQL / MySQL Workbench):
 
-Plaintext
-├── tabelle.sql        # Definizione dello schema relazionale, tabelle e vincoli di integrità
-├── triggers.sql       # Implementazione dei trigger per i vincoli complessi
-├── dati.sql           # Popolamento del database con dati di prova realistici
-└── operazioni.sql     # Query SQL relative alle specifiche operazioni del sistema (OP1 - OP9)
+<img width="290" height="212" alt="image" src="https://github.com/user-attachments/assets/5d5bc9b8-b373-4525-b9f7-f8a0a9496608" />
+
 # 🚀 Guida all'Installazione e Utilizzo
 Per replicare e testare il database sul proprio ambiente locale (es. MySQL Workbench):
 
